@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="employee.xslt"?>
+<employees xmlns="https://www.shuowei.org/Employees">
+  <employee id="1">
+    <id name="id">1</id>
+    <name name="name">John Smith </name>
+    <address name="address">1 Code Lane,Javaville,NSW </address>
+    <phone name="phone">0299882211</phone>
+    <email name="email">harry potter</email>
+    <age name="age">15</age>
+    <department name="department">1</department>
+    <street name="street">1 Code Lane</street>
+    <city name="city">Javaville</city>
+    <state name="state">NSW</state>
+    <zip name="zip">0100</zip>
+    <country name="country">Australia</country>
+  </employee>
+  <employee id="2">
+    <id name="id">2</id>
+    <name name="name">Sue White</name>
+    <address name="address">16 Bit Way,Byte Cove, QLD </address>
+    <phone name="phone">0388992255</phone>
+    <email name="email">harry potter</email>
+    <age name="age">15</age>
+    <department name="department">2</department>
+    <street name="street">16 Bit Way</street>
+    <city name="city">Byte Cove</city>
+    <state name="state">QLD</state>
+    <zip name="zip">1101</zip>
+    <country name="country">Australia</country>
+  </employee>
+  <employee id="3">
+    <id name="id">3</id>
+    <name name="name">Bob O'Bits</name>
+    <address name="address">8 Silicon Road,Cloud Hills,VIC </address>
+    <phone name="phone">0577882255</phone>
+    <email name="email">harry potter</email>
+    <age name="age">15</age>
+    <department name="department">3</department>
+    <street name="street">8 Silicon Road</street>
+    <city name="city">Cloud Hills</city>
+    <state name="state">VIC</state>
+    <zip name="zip">1001</zip>
+    <country name="country">Australia</country>
+  </employee>
+  <employee id="4">
+    <id name="id">4</id>
+    <name name="name">Mary Blue </name>
+    <address name="address">4 Processor Boulevard,Appletson, NT</address>
+    <phone name="phone">0644559988</phone>
+    <email name="email">harry potter</email>
+    <age name="age">15</age>
+    <department name="department">2</department>
+    <street name="street">4 Processor Boulevard</street>
+    <city name="city">Appletson</city>
+    <state name="state">NT</state>
+    <zip name="zip">1010 </zip>
+    <country name="country">Australia</country>
+  </employee>
+  <employee id="5">
+    <id name="id">5</id>
+    <name name="name">Mick Green</name>
+    <address name="address">700 Bandwidth Street,Bufferland, NSW</address>
+    <phone name="phone">0299881122</phone>
+    <email name="email">harry potter</email>
+    <age name="age">15</age>
+    <department name="department">3</department>
+    <street name="street">700 Bandwidth Street</street>
+    <city name="city">Bufferland</city>
+    <state name="state">NSW</state>
+    <zip name="zip">0110</zip>
+    <country name="country">Australia</country>
+  </employee>
+</employees>

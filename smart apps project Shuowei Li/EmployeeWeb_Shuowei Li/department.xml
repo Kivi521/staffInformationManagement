@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="Department.xslt"?>
+<departments  xmlns= "https://www.shuowei.org/departments">
+  <department id="0">
+    <id name="id">0</id>
+    <name name="name">General</name>
+   </department>
+   <department id="1">
+        <id name="id">1</id>
+        <name name="name">Information Technology</name>
+   </department>
+   <department id="2">
+        <id name="id">2</id>
+        <name name="name">Accounting</name>
+   </department>
+   <department id="3">
+        <id name="id">3</id>
+        <name name="name">Markting</name>
+   </department>
+   <department id="4">
+        <id name="id">4</id>
+        <name name="name">Human Resources</name>
+   </department>
+</departments>
